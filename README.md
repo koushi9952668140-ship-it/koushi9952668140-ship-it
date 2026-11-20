@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**koushi9952668140-ship-it/koushi9952668140-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Koushika! 👋
 
-Here are some ideas to get you started:
+## About Me
+I am a Computer Science student interested in software development and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Interests
+- Full Stack Development
+- Python Programming
+- Web Development
+
+## Technical Skills
+- Python (Learning)
+- HTML (Basic)
+- CSS (Learning)
+
+## Currently Learning
+- Python Programming
+- HTML and CSS
+- JavaScript
+- Git and GitHub
+
+## My Goals
+- Improve my programming skills.
+- Build real-world projects.
+- Participate in hackathons.
+- Become a Full Stack Developer.
+
+## Projects
+- Beginner Python Programs
+- Simple HTML Web Pages
+
+## Connect With Me
+- LinkedIn: Add your LinkedIn profile URL here.
